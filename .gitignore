@@ -33,3 +33,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/twitter-to-kafka-service/src/main/resources/twitter4j.properties
+/mvnw
+/mvnw.cmd
+/twitter-to-kafka-service/src/main/resources/logback.xml
